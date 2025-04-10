@@ -4,6 +4,7 @@ Features:
 - User LogIn
 - Data handling: Uses JSON files for local data storage
 - Data encryption
+  
 Tehnologies used:
 - Java
 - Java Swing
